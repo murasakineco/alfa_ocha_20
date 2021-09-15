@@ -198,7 +198,7 @@ button {
           transform: rotate(90deg);
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
-  fill: #009245;
+  fill: #7c2040;
   width: 12px;
   height: 24px;
 }
@@ -274,7 +274,7 @@ button {
   line-height: 1.75;
   text-align: center;
   padding: 9px 20px;
-  background-color: #d9e021;
+  background-color: #de6fa1;
   margin: 0 -20px 20px -20px;
 }
 
@@ -336,7 +336,7 @@ button {
   display: block;
   text-decoration: none;
   cursor: pointer;
-  background-color: #006837;
+  background-color: #de6fa1;
   color: #fff;
   font-size: 24px;
   line-height: 1.54167;
@@ -356,7 +356,7 @@ button {
   position: absolute;
   top: calc(50% - 12px);
   right: 15px;
-  fill: #fff;
+  fill: #7c2040;
   width: 12px;
   height: 24px;
 }
