@@ -78,8 +78,8 @@ button {
   display: block;
   border: none;
   margin: 0 auto;
-  background-color: #df5286;
-  color: #4f001c;
+  background-color: #CCC9D6;
+  color: #000;
   width: 287px;
   height: 55px;
 }
@@ -239,7 +239,7 @@ button {
 * Color
 *********************/
 .bg-color--keycolor {
-  background-color: #e6ccff;
+  background-color: #f1e3ff;
 }
 
 .bg-color--subcolor {
