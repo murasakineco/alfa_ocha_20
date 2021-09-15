@@ -24,7 +24,7 @@ body {
   text-decoration: none;
   border: none;
   list-style: none;
-  color: #4f001c;
+  color: #500729;
   margin: 0;
 }
 
@@ -198,7 +198,7 @@ button {
           transform: rotate(90deg);
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
-  fill: #4f001c;
+  fill: #500729;
   width: 12px;
   height: 24px;
 }
