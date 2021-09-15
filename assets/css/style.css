@@ -243,11 +243,11 @@ button {
 }
 
 .bg-color--subcolor {
-  background-color: #fbaed2;
+  background-color: #debdd8;
 }
 
 .bg-color--gray {
-  background-color: #fbaed2;
+  background-color: #debdd8;
 }
 
 /*********************
@@ -264,7 +264,7 @@ button {
 }
 
 .sub-title__bg {
-  background-color: #df5286;
+  background-color: #de6fa1;
   padding-left: 1rem;
   padding-right: 1rem;
 }
