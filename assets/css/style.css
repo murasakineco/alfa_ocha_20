@@ -24,7 +24,7 @@ body {
   text-decoration: none;
   border: none;
   list-style: none;
-  color: #000;
+  color: #4f001c;
   margin: 0;
 }
 
@@ -79,7 +79,7 @@ button {
   border: none;
   margin: 0 auto;
   background-color: #df5286;
-  color: #000;
+  color: #4f001c;
   width: 287px;
   height: 55px;
 }
@@ -198,7 +198,7 @@ button {
           transform: rotate(90deg);
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
-  fill: #7c2040;
+  fill: #4f001c;
   width: 12px;
   height: 24px;
 }
@@ -247,7 +247,7 @@ button {
 }
 
 .bg-color--gray {
-  background-color: #e6e6e6;
+  background-color: #fbaed2;
 }
 
 /*********************
@@ -292,7 +292,7 @@ button {
 }
 
 .section-title--keycolor {
-  background-color: #ffa6c9;
+  background-color: #de6fa1;
 }
 
 .section-title--story {
@@ -307,7 +307,7 @@ button {
   line-height: 1.06667;
   margin: 0;
   padding-bottom: 15px;
-  color: #7c2040;
+  color: #4f001c;
 }
 
 .section-title--border::after {
@@ -356,7 +356,7 @@ button {
   position: absolute;
   top: calc(50% - 12px);
   right: 15px;
-  fill: #7c2040;
+  fill: #4f001c;
   width: 12px;
   height: 24px;
 }
@@ -462,7 +462,7 @@ button {
   position: relative;
   display: block;
   text-align: center;
-  color: #7c2040;
+  color: #4f001c;
   font-size: 30px;
   padding-bottom: 10px;
   margin-bottom: 35px;
